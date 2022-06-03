@@ -5,6 +5,7 @@
     "esModuleInterop": true,
     "target": "ES6",
     "lib": ["ES6", "dom"], // 타입스크립트에게 어떤 API를 사용하고, 어떤 환경에서 코드를 실행하는지를 알려준다.
-    "strict": true
+    "strict": true,
+    "allowJs": true
   }
 }
